@@ -1,4 +1,4 @@
-![SELF ATTESTED PHOTO](https://github.com/yukti1sharma/movieRecommendationApplication/assets/125639729/325553be-98e6-4e76-9b65-82f7e47f63a3)"MovieCompose" is an innovative Android mobile application developed using Android Studio, designed to revolutionize the movie-watching experience.
+"MovieCompose" is an innovative Android mobile application developed using Android Studio, designed to revolutionize the movie-watching experience.
 The app seamlessly integrates advanced features to provide users with a personalized and engaging cinematic journey. 
 This user-friendly app seamlessly integrates advanced features to enhance the user's interaction with their favorite films.
 We are creating this platform to meet the growing demand for personalized movie recommendations as it's crucial for any entertainment platform to serve the diverse needs of the users. 
@@ -32,7 +32,7 @@ Similar movies are being showed on the basis of the chosen movie
 
 
 
-#Acknowledgements 
+# Acknowledgements 
 * The data used in this app is fetched from The Movie Database (TMDb), and the API key should be provided separately in the project.
 * Special thanks to the Jetpack Compose and Android community for providing valuable resources and support for building modern Android apps.
 
